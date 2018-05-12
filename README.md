@@ -68,4 +68,3 @@ While still in the virtual machine, run the program with command:
 python report_tool.py
 
 The answers will be printed into the terminal.
-TYPE or PASTE your text here... Click the RED SPELL CHECK button above
